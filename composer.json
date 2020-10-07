@@ -1,0 +1,13 @@
+{
+    "name": "robertDouglass/mymodule",
+    "description": "Demo of how to add a package",
+    "authors": [
+        {
+            "name": "Robert",
+            "email": "robert@platform.sh"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+    }
+}
